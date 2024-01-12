@@ -1,0 +1,8 @@
+Prerequisite: MongoDB is installed and running on your machine is installed
+//To Run the server on your system follow the steps:
+Execute the lines on terminal
+1.  cd BackendTaskApp
+2.  npm install
+3.  node server.js
+
+React app will start running on port 3000
